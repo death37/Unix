@@ -1,0 +1,390 @@
+    1  sudo apt-get update
+    2  sudo apt-get upgrade
+    3  The web browser from Google
+    4  sudo apt-get install lintian
+    5  ls
+    6  cd Documents/
+    7  ls
+    8  cd quetes/
+    9  ls
+   10  cd uniw
+   11  cd unix/
+   12  ls
+   13  cd clmystery-master/
+   14  ls
+   15  ls -l
+   16  cat hint1
+   17  ls
+   18  cd mystery/
+   19  ls
+   20  head -n 20 people
+   21  cat hint2
+   22  cd ..
+   23  ls
+   24  cat hint2
+   25  grep "CLUE" crimescenenicolas@nicolas-VirtualBox:~/Documents/quetes/unix/clmystery-master$
+   26  ls
+   27  cd mystery/
+   28  ls
+   29  grep "CLUE" crimescene
+   30  ls
+   31  cd ..
+   32  ls
+   33  cat hint3
+   34  cd mystery/
+   35  ls
+   36  head people
+   37  head vehicles 
+   38  cd ..
+   39  ls
+   40  cat hint4
+   41  cd mystery/
+   42  grep "Annabel" people
+   43  cd ..
+   44  ls
+   45  cat hint5
+   46  cd mystery/
+   47  ls
+   48  cd interview
+   49  cd interviews/
+   50  ls
+   51  head -n 173 streets/Mattapan_Street | tail -n 1
+   52  ls
+   53  cd ..
+   54  ls
+   55  cd streets/
+   56  head -n 173 streets/Mattapan_Street | tail -n 1
+   57  ls
+   58  head -n 173 streets/Mattapan_Street | tail -n 1ls
+   59  ls
+   60  cd ..
+   61  cd .
+   62  cd ..
+   63  ls
+   64  cat hint6
+   65  cat hint5
+   66  cd mystery/
+   67  head -n 173 streets/Mattapan_Street | tail -n 1
+   68  cd ..
+   69  ls
+   70  cat hint6
+   71  cat hint1
+   72  cd mystery/
+   73  ls
+   74  head -n 20 people
+   75  cd ..
+   76  cat hint2
+   77  cd mystery/
+   78  head -n 173 streets/Mattapan_Street | tail -n 1
+   79  cat hint3
+   80  cd ..
+   81  cat hint3
+   82  cd mystery/
+   83  ls
+   84  head people
+   85  cd ..
+   86  cd mystery/
+   87  head vehicles 
+   88  cd ..
+   89  ls
+   90  cat hint4
+   91  cd mystery/
+   92  grep "Annabel" people
+   93  cd ..
+   94  cat hint5
+   95  cd mystery/
+   96  head -n 173 streets/Mattapan_Street | tail -n 1
+   97  cd ..
+   98  cat hint2
+   99  cd mystery/
+  100  grep "CLUE" crimescene
+  101  cd ..
+  102  ls
+  103  cat hint6
+  104  cd mystery/
+  105  grep "Honda" vehicles
+  106  grep "Blue" vehicles
+  107  cd ..
+  108  cat hint6
+  109  cat hint7
+  110  cd mystery/
+  111  grep -A 5 "L337" mystery/vehicles
+  112  cd memberships/
+  113  cd ..*
+  114  cd ..
+  115  grep -A 5 "L337" mystery/vehicles
+  116  cd ..
+  117  cat hint6
+  118  ls
+  119  cd clmystery-master/
+  120  ls
+  121  cat hint6
+  122  cat hint7
+  123  grep -B 5 "L337" mystery/vehicles
+  124  grep -C 5 "L337" mystery/vehicles
+  125  ls
+  126  cat hint8
+  127  ls
+  128  cd mystery/
+  129  ls
+  130  cd memberships/
+  131  ls
+  132  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith" | wc -l
+  133  cd ..
+  134  cat hint8
+  135  cat Fitness_Galaxy AAA United_MileagePlus | grep "Annabel" | wc -l
+  136  cd mystery/
+  137  ls
+  138  cd memberships/
+  139  cat Fitness_Galaxy AAA United_MileagePlus | grep "Annabel" | wc -l
+  140  ls
+  141  cd ..
+  142  ls
+  143  grep "#9437737" crimescene
+  144  ls
+  145  cd interviews
+  146  ls
+  147  grep "interview-9437737"
+  148  cat interview-9437737
+  149  sudo nano interview-9437737
+  150  cd ..
+  151  ls
+  152  grep "CLUE" people
+  153  grep "CLUE" vehicles 
+  154  ls
+  155  cd ..
+  156  ls
+  157  cat hint1
+  158  cd mystery/
+  159  head -n 20 people
+  160  ls
+  161  cd streets/
+  162  ls
+  163  cd ..
+  164  ls
+  165  head -n 20 people
+  166  cd streets/
+  167  cat Walton_Street
+  168  head -n 227 Glenville_Avenue 
+  169  echo jacqui meher
+  170  ls
+  171  head people 
+  172  ls
+  173  cd interviews/
+  174  ls
+  175  cat interview-904020
+  176  enquête en t'aidant de tout ce que tu as appris dans les étapes précédentes et des aide-mémoire présents dans le dossier de l'enquête
+  177  Quand tu penses avoir trouvé le nom du meutrier, affiche-le dans ton terminal avec la commande echo, par exemple echo BATMAN
+  178  clear
+  179  ls
+  180  cd Doc
+  181  cd Documents/
+  182  ls
+  183  cd quetes/
+  184  cd unix/
+  185  ls
+  186  cd cl
+  187  cd clmystery-master/
+  188  ls
+  189  cat instructions 
+  190  cat hint1
+  191  *
+  192  grep "clue" mystery/crimescene 
+  193  cd Documents/
+  194  cd quetes/
+  195  cd unix/
+  196  cd quetes/
+  197  ls
+  198  cd clmystery-master/
+  199  ls
+  200  cat instructions 
+  201  ls
+  202  cat hint1
+  203  grep "CLUE" mystery/vehicles 
+  204  cd mystery/
+  205  ls
+  206  grep "CLUE" vehicles 
+  207  grep "CLUE" crimescene 
+  208  ls
+  209  grep "CLUE" people 
+  210  grep "CLUE" vehicles 
+  211  cd ..
+  212  cat hint1
+  213  head -n 20 people
+  214  cd mystery/
+  215  head -n 20 people
+  216  cd ..
+  217  ls
+  218  cat hint2
+  219  cd mystery/
+  220  grep "CLUE" crimescene 
+  221  cd ..
+  222  ls
+  223  cat hint3
+  224  cd mystery/
+  225  head people
+  226  head vehicles 
+  227  cd ..
+  228  ls
+  229  cat hint4
+  230  grep "Annabel" people
+  231  cd mystery/
+  232  grep "Annabel" people
+  233  cd ..
+  234  cat hint5
+  235  cd mystery/
+  236  head -n 40 streets/Hart_Place | tail -n 1
+  237  cd interviews/
+  238  cat interview-47246024
+  239  cd ..
+  240  head -n 173 streets/Mattapan_Street | tail -n 1
+  241  cd interviews/
+  242  cat interview-9437737
+  243  cd ..
+  244  head -n 179 streets/Buckingham_Place | tail -n 1
+  245  cd interviews/
+  246  cat interview-699607 
+  247  cd ..
+  248  head -n 176 streets/Haley_Street | tail -n 1
+  249  cd interviews/
+  250  ls
+  251  cat interview-871877
+  252  cd ..
+  253  cat hint6
+  254  cd mystery/
+  255  head vehicles
+  256  grep "Honda" vehicles | grep "Blue" | grep "L337"
+  257  grep "Honda" vehicles | grep "Blue" | grep "L337" | head  
+  258  grep "Honda" vehic
+  259  grep "Blue" vehicles
+  260  grep "L337" vehicles
+  261  grep "9" vehicles
+  262  grep "Honda" vehicles | grep "Blue" vehicles | grep "L337" vehicles | head
+  263  grep "Honda" vehicles | grep "Blue" vehicles | head
+  264  grep "Honda" vehicles | grep "Blue" | head
+  265  grep "Honda" vehicles | grep "Blue" | grep "L337" | head
+  266  grep "Honda" vehicles | head
+  267  grep "Honda"|"Blue"|"L337*9" vehicles 
+  268  grep "Honda|Blue|L337" vehicles 
+  269  grep "Honda|Blue" vehicles 
+  270  grep "Honda*Blue" vehicles 
+  271  grep "Honda.*Blue" vehicles 
+  272  grep "Honda|Blue" vehicles 
+  273  grep "Honda\|Blue" vehicles 
+  274  grep "Honda\|Blue\|L337" vehicles 
+  275  grep "Honda.*Blue.*L337" vehicles 
+  276  grep "Honda.*Blue" vehicles 
+  277  grep "Honda.*Blue|Blue.*Honda" vehicles 
+  278  grep man
+  279  grep /man
+  280  grep 
+  281  grep -e "Honda.*Blue|Blue.*Honda" vehicles 
+  282  grep -E "Honda.*Blue|Blue.*Honda" vehicles 
+  283  grep -E "Honda.*Blue" vehicles 
+  284  grep -E "Honda" vehicles | grep -E "Blue" 
+  285  cd ..
+  286  grep -A 5 "L337" mystery/vehicles
+  287  ls
+  288  cd mystery/
+  289  ls
+  290  cd memberships/
+  291  ls
+  292  cat AAA | grep "John"
+  293  cat AAA | grep "Jac"
+  294  cat AAA | grep "Jac" | wc -l
+  295  cat AAA | grep -c "Jac"
+  296  ls
+  297  cd ..
+  298  ls
+  299  head vehicles 
+  300  grep -A 5 "L337" mystery/vehicles
+  301  grep -A 5 "L337" vehicles
+  302  grep -B 5 "L337" vehicles
+  303  grep -C 5 "L337" vehicles
+  304  ls
+  305  cd memberships/
+  306  ls
+  307  cat Fitness_Galaxy AAA United_MileagePlus | grep "Erika Owens"
+  308  cat Fitness_Galaxy AAA United_MileagePlus | grep "Joe Germuska"
+  309  cat AAA | grep "Joe Germuska"
+  310  cat AAA | grep "Jeremy Bowers"
+  311  cat AAA | grep "Jacqui Maher"
+  312  cd ..
+  313  ls
+  314  cd interviews/
+  315  ls
+  316  cat interview-699607
+  317  ls
+  318  cd ..
+  319  ls
+  320  grep "CLUE" crimescene 
+  321  cd interviews/
+  322  cat interview-47246024 
+  323  cat interview-9437737 
+  324  cat interview-699607 
+  325  cat interview-871877 
+  326  cd ..
+  327  ls
+  328  grep "Annabel" people
+  329  head -n 173 streets/Mattapan_Street | tail -n 1
+  330  head -n 179 streets/Buckingham_Place | tail -n 1
+  331  head -n 40 streets/Hart_Place | tail -n 1
+  332  cd interviews/
+  333  cat interview-47246024 
+  334  cat interview-699607
+  335  cd ..
+  336  ls
+  337  gre
+  338  grep "CLUE" crimescene 
+  339  grep "Annabel" vehicles 
+  340  cd memberships/
+  341  cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith" | wc -l
+  342  cat Fitness_Galaxy AAA United_MileagePlus | grep "Aron Pilhofer" | wc -l
+  343  cat Fitness_Galaxy AAA United_MileagePlus | grep "Joe Germuska" | wc -l
+  344  cat Fitness_Galaxy AAA United_MileagePlus | grep "Jeremy Bowers" | wc -l
+  345  cd Documents/
+  346  ls
+  347  cd quetes/
+  348  ls
+  349  cd unix/
+  350  ls
+  351  cd clmystery-master/
+  352  ls
+  353  cd mystery/
+  354  ls
+  355  cd memberships/
+  356  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jeremy Bowers" | wc -l
+  357  cd ..
+  358  ls
+  359  grep -A 5 "L337" mystery/vehicles
+  360  grep -A 5 "L337" vehicles
+  361  cd memberships/
+  362  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Jacqui Maher" | wc -l
+  363  cat AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep "Joe Germuska" | wc -l
+  364  grep -A 5 "Jacqui Maher" AAA
+  365  grep -A 5 "Jacqui Maher" Delta_SkyMiles 
+  366  grep -A 5 "Jacqui Maher" *
+  367  grep -A 5 "Jeremy Bowers" *
+  368  grep -A 5 "Joe Germuska" *
+  369  cd ..
+  370  grep -A 5 "Jeremy Bowers" *
+  371  cd streets/
+  372  ls
+  373  head -n 284 Dunstable_Road | tail -n 1
+  374  cd ..
+  375  ls
+  376  cd interviews/
+  377  ls
+  378  cat interview-9620713
+  379  ls
+  380  cd ..
+  381  grep -A 5 "Jacqui Maher" *
+  382  head -n 224 Andover_Road | tail -n 1
+  383  cd streets/
+  384  head -n 224 Andover_Road | tail -n 1
+  385  cd ..
+  386  ls
+  387  cd interviews/
+  388  cat interview-904020
+  389  echo Jeremy Bowers
+  390  history > mon_historique.log
